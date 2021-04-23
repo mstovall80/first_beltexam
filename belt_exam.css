@@ -1,0 +1,213 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    /* outline: 1px dashed red; */
+    /* box-sizing: border-box; */
+    
+}
+#container{
+    min-height: 664px;
+    width: 1065px;
+    background-color: black;
+    margin: 0 auto;
+    
+}
+#header{
+    min-height: 95px;
+    width: 1065px;
+    color: white;
+}
+.header img{
+    min-height: 59px;
+    width: 154px;
+    display: inline-block
+}
+.call{
+    min-height: 20px;
+    width: 128px;
+    font-size: small;
+    margin-left: 655px;
+    display: inline-block;
+}
+#selectionbox{
+    min-height: 40px;
+    width: 0 auto;
+    display: inline-block
+}
+#nav{
+    display: flex;
+    min-height: 35px;
+    width: 1065px;
+    background-color: gray;
+    justify-content: space-evenly;
+    
+    
+}
+.option{
+    margin:  20px;
+    
+}
+.ul{
+    width: 738px;
+    min-height: 29px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 0px;
+}
+nav ul li{
+    list-style-type: none;
+}
+
+.mainpic{
+    width: 1065px;
+}
+#discription{
+    min-height: 185px;
+    width: 1065px;
+    background-color: rgb(105, 100, 100);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.cloud{
+    min-height: 38px;
+    width: 44px;
+    justify-content: center;
+  
+}
+#subcontent{
+    display: flex;
+    min-height: 91px;
+    width: auto;
+    background-color: black;
+    
+}
+.subtext{
+    color: aliceblue;
+    font-size: xx-large;
+    margin-top: 10px;
+    width: 507px;
+}
+
+.para{
+    color: aliceblue;
+    font-size: small;
+    width: 610px;
+    margin-top: 8px;
+}
+.subbutton{
+    min-height: 37px;
+    width: 119px;
+    background-color: rgb(247, 120, 2);
+    align-self: flex-end;
+    margin-bottom: 25px;
+    margin-left: 288px;
+    border-radius: 15px;
+}
+#portfoliofooter{
+    min-height: 59px;
+    width: 1065;
+    background-color: gray;
+    display: flex;
+    justify-content: space-evenly;
+}
+.header{
+    height: 58px;
+    width: 1065px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(88, 85, 85);
+}
+.header h1{
+    height: 58px;
+    color: white;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.viewproject{
+    height: 22px;
+    width: 142px;
+    color: orangered;
+    margin-top: 30px;
+}
+#imagebottom{
+    min-height: 346px;
+    width: 1065px;
+    display:flex;
+    margin-left: 142px;
+    justify-content: center;
+    background-color: black;
+    justify-content: space-around;
+}
+.portfolio1{
+    height: 348px;
+    width: 272px;
+}
+.portfolio1 img{
+    width: 251px;
+    height: 172px;
+}
+.portfolio1 p{
+    color: aliceblue;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#p1{
+    color: orangered;
+    font-size: x-large;
+}
+
+.portfolio2{
+    height: 348px;
+    width: 293px;
+}
+.portfolio2 img{
+    width: 270px;
+    height: 171px;
+}
+.portfolio2 p{
+    color: aliceblue;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#p2{
+    color:orangered;
+    font-size: x-large;
+}
+.portfolio3{
+    height: 348px;
+    width: 293px;
+    
+}
+.portfolio3 img{
+    width: 251px;
+    height: 171px;
+}
+.portfolio3 p{
+    color: aliceblue;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#p3{
+    color: orangered;
+    font-size: x-large;
+}
+.portfolio4{
+    height: 348px;
+    width: 293px;
+    
+}
+.portfolio4 img{
+    height: 171px;
+    width: 293px;
+}
+.portfolio4 p{
+    color: aliceblue;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+#p4{
+    color: orangered;
+    font-size: x-large;
+}
+
